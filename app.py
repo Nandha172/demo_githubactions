@@ -1,4 +1,4 @@
 def greet():
 	return "Hello! Welcome to my github actions project."
-if_name_=="__main__":
+if__name__=="__main__":
 	print(greet())
